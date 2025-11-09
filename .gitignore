@@ -13,3 +13,5 @@ env.bak/
 venv.bak/
 best_model.pth
 predictions.csv
+sample_submission.csv
+testset/
